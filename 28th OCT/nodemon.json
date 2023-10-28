@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "./index.js", "./test.txt"
+    ],
+    "ext": "js",
+    "ignore": ["*.test.js"],
+    "delay": 10
+}
